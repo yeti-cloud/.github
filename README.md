@@ -1,1 +1,1 @@
-# .github
+YetiCloud is a software development company that makes cool stuff for the modern tech world. We like to solve problems around databases, distributed computing, containers, monitoring, and reliability.
